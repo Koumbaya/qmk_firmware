@@ -25,3 +25,4 @@ SLEEP_LED_ENABLE = no    # Breathing sleep LED during USB suspend
 BOOTLOADER = qmk-dfu
 
 OLED_DRIVER_ENABLE = yes
+USER_NAME := koumbaya
